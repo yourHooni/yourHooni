@@ -3,12 +3,12 @@
 
 <br />
 <div align="center">
-  
+  <h4>문제를 해결하는 개발자 박지훈입니다!</h4>
   <br /><br />
   <h3>🛠 Tech Stack 🛠</h3>
   <div class="stack">
-    <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
     <br />
